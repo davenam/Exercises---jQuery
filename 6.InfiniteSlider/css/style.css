@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*
+    border: none;    
+    outline: none;
+*/
+}
+
+.slider {
+    height: 250px;
+    overflow: hidden;
+}
+
+.slider ul {
+    list-style: none;
+    position: relative;
+    display: flex;          /* dzieki temu nie ma odstepow miedzy elementami li */
+}
+
+.slider li {
+    display: inline-block;
+}

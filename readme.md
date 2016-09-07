@@ -6,7 +6,7 @@ Dawid Namyslak
 
 ## Contains:
 
-Kilka zadan zwiazanych z JavaScript.
+Kilka zadan zwiazanych z jQuery.
 Przerobione na kursie CodersLab
 
 
